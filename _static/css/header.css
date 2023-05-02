@@ -3,9 +3,9 @@
     /*線の種類（点線）2px 線色*/
   /*}*/
 
-h1 { font-size: 1.3em }
-h2 { font-size: 1.2em }
-h3 { font-size: 1.125em }
-h4 { font-size: 1em }
-h5 { font-size: 0.75em }
-h6 { font-size: 0.625em }
+h1 { font-size: 1.3em; color: black }
+h2 { font-size: 1.2em; color: black }
+h3 { font-size: 1.125em; color: black }
+h4 { font-size: 1em; color: black }
+h5 { font-size: 0.75em; color: black }
+h6 { font-size: 0.625em; color: black }

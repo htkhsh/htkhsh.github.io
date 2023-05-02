@@ -42,9 +42,7 @@ html_theme_options = {
     "show_nav_level": 2,
     "navigation_depth": 4,
     "logo": {
-        "text": "Hideaki Takahashi",
         "image_light": "./_static/logo2.jpeg",
-        "alt_text": "Hideaki Takahashi",
     },
     "icon_links": [
         {
@@ -58,28 +56,22 @@ html_theme_options = {
             "type": "fontawesome",
         },
         {
-             "name": "Google Scholar",
-             "url": "https://scholar.google.co.jp/citations?user=_Anark0AAAAJ&hl=ja",
-             "icon": "_static/logo/google-scholar-square.svg",
-             "type": "local",
-         },
-         {
-             "name": "ORCiD",
-             "url": "https://orcid.org/0000-0001-6465-2049",
-             "icon": "fa-brands fa-orcid",
-             "type": "fontawesome",
-         },
-         {
-             "name": "Researchgate",
-             "url": "https://www.researchgate.net/profile/Hideaki-Takahashi-11",
-             "icon": "fa-brands fa-researchgate",
-             "type": "fontawesome",
-         },
+            "name": "ORCiD",
+            "url": "https://orcid.org/0000-0001-6465-2049",
+            "icon": "fa-brands fa-orcid",
+            "type": "fontawesome",
+        },
+        {
+            "name": "Researchgate",
+            "url": "https://www.researchgate.net/profile/Hideaki-Takahashi-11",
+            "icon": "fa-brands fa-researchgate",
+            "type": "fontawesome",
+        },
 
    ],
 
    #"external_links": [
-   #      {"name": "JACST", "url": "https://sites.google.com/view/jacst"},
+   #      {"name": "Google Scholar", "url": "https://scholar.google.co.jp/citations?user=_Anark0AAAAJ&hl=ja"},
    #  ],
 
 }
