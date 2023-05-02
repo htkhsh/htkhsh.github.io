@@ -6,16 +6,14 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-import sphinx_bootstrap_theme
-
-project = 'HideakiTakahashi'
+project = 'Hideaki Takahashi'
 copyright = '2023, Hideaki Takahashi'
 author = 'htkhsh'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = []
+extensions = ["sphinx_favicon"]
 
 templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
@@ -23,87 +21,83 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-
-html_theme = 'bootstrap'
-html_theme_path = sphinx_bootstrap_theme.get_html_theme_path()
+html_theme = 'pydata_sphinx_theme'
 
 html_static_path = ['_static']
 
-html_logo = "./_static/logo2.jpeg"
-
-html_theme_options = {
-    # Navigation bar title. (Default: ``project`` value)
-    'navbar_title': " ",
-
-    # Tab name for entire site. (Default: "Site")
-    'navbar_site_name': "Site",
-
-    # A list of tuples containing pages or urls to link to.
-    # Valid tuples should be in the following forms:
-    #    (name, page)                 # a link to a page
-    #    (name, "/aa/bb", 1)          # a link to an arbitrary relative url
-    #    (name, "http://example.com", True) # arbitrary absolute url
-    # Note the "1" or "True" value above as the third argument to indicate
-    # an arbitrary url.
-    #'navbar_links': [
-    #    ("Examples", "examples"),
-    #    ("Link", "http://example.com", True),
-    #],
-
-    # Render the next and previous page links in navbar. (Default: true)
-    'navbar_sidebarrel': True,
-
-    # Render the current pages TOC in the navbar. (Default: true)
-    'navbar_pagenav': True,
-
-    # Tab name for the current pages TOC. (Default: "Page")
-    'navbar_pagenav_name': "Page",
-
-    # Global TOC depth for "site" navbar tab. (Default: 1)
-    # Switching to -1 shows all levels.
-    'globaltoc_depth': 2,
-
-    # Include hidden TOCs in Site navbar?
-    #
-    # Note: If this is "false", you cannot have mixed ``:hidden:`` and
-    # non-hidden ``toctree`` directives in the same page, or else the build
-    # will break.
-    #
-    # Values: "true" (default) or "false"
-    'globaltoc_includehidden': "true",
-
-    # HTML navbar class (Default: "navbar") to attach to <div> element.
-    # For black navbar, do "navbar navbar-inverse"
-    #'navbar_class': "navbar navbar-inverse",
-
-    # Fix navigation bar to top of page?
-    # Values: "true" (default) or "false"
-    'navbar_fixed_top': "true",
-
-    # Location of link to source.
-    # Options are "nav" (default), "footer" or anything else to exclude.
-    'source_link_position': "nav",
-
-    # Bootswatch (http://bootswatch.com/) theme.
-    #
-    # Options are nothing (default) or the name of a valid theme
-    # such as "cosmo" or "sandstone".
-    #
-    # The set of valid themes depend on the version of Bootstrap
-    # that's used (the next config option).
-    #
-    # Currently, the supported themes are:
-    # - Bootstrap 2: https://bootswatch.com/2
-    # - Bootstrap 3: https://bootswatch.com/3
-    'bootswatch_theme': "united",
-
-    # Choose Bootstrap version.
-    # Values: "3" (default) or "2" (in quotes)
-    #'bootstrap_version': "3",
+html_context = {
+   "default_mode": "light"
 }
 
+html_theme_options = {
+    "navbar_start": ["navbar-logo"],
+    "navbar_center": ["navbar-nav"],
+    "navbar_end": ["navbar-icon-links.html"],
+    "navbar_persistent": ["search-button"],
+    "navbar_align": "content",
+    "secondary_sidebar_items": ["page-toc", "edit-this-page", "sourcelink"],
+    "article_footer_items": ["prev-next.html"],
+    "show_prev_next": False,
+    "footer_start": ["copyright", "sphinx-version"],
+    "show_nav_level": 2,
+    "navigation_depth": 4,
+    "logo": {
+        "text": "Hideaki Takahashi",
+        "image_light": "./_static/logo2.jpeg",
+        "alt_text": "Hideaki Takahashi",
+    },
+    "icon_links": [
+        {
+            # Label for this link
+            "name": "GitHub",
+            # URL where the link will redirect
+            "url": "https://github.com/htkhsh",  # required
+            # Icon class (if "type": "fontawesome"), or path to local image (if "type": "local")
+            "icon": "fa-brands fa-github",
+            # The type of image to be used (see below for details)
+            "type": "fontawesome",
+        },
+        {
+             "name": "Google Scholar",
+             "url": "https://scholar.google.co.jp/citations?user=_Anark0AAAAJ&hl=ja",
+             "icon": "_static/logo/google-scholar-square.svg",
+             "type": "local",
+         },
+         {
+             "name": "ORCiD",
+             "url": "https://orcid.org/0000-0001-6465-2049",
+             "icon": "fa-brands fa-orcid",
+             "type": "fontawesome",
+         },
+         {
+             "name": "Researchgate",
+             "url": "https://www.researchgate.net/profile/Hideaki-Takahashi-11",
+             "icon": "fa-brands fa-researchgate",
+             "type": "fontawesome",
+         },
+
+   ],
+
+   #"external_links": [
+   #      {"name": "JACST", "url": "https://sites.google.com/view/jacst"},
+   #  ],
+
+}
+
+html_sidebars = {
+    "**": ["sidebar-nav-bs", "sidebar-ethical-ads"]
+}
+
+favicons = [
+    {"href": "favicon.ico"},  # => use `_static/icon.svg`
+]
+
+html_css_files = [
+    'css/color.css',
+]
+
 def setup(app):
-    app.add_css_file("header.css") # also can be a full URL
+    app.add_css_file("css/header.css") # also can be a full URL
     # app.add_stylesheet("ANOTHER.css")
     # app.add_stylesheet("AND_ANOTHER.css")
 
