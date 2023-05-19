@@ -1,7 +1,7 @@
 html[data-theme="light"] {
-    --pst-color-primary: #F73F52;
-    --pst-color-secondary: #F79AA4;
-    --pst-color-warning: #F79AA4;
-    --pst-color-on-background: #F7C6CB;
-    --pst-color-text-muted: #9d8989;
+    --pst-color-primary: #FFEC00;
+    --pst-color-secondary: #00BFFF;
+    --pst-color-warning: #FFCC00;
+    --pst-color-on-background: #00FF00;
+    --pst-color-text-muted: #009F00;
 }
