@@ -8,7 +8,7 @@ Raffaele Borrelli's group, Department of Agricultural, Forest and Food Sciences,
 
 E-mail: takahashi.hideaki.w33[at]kyoto-u.jp
 
-Research Interest: Nonlinear optical spectroscopies, Theory of Markovian and non-Markovian magnetic relaxation, Application of tensor networks to dissipative quantum dynamics
+Research Interest: Nonlinear optical spectroscopies, Theory of Markovian and non-Markovian magnetic relaxation, Application of matrix product state to dissipative quantum dynamics
 
 .. toctree::
    :maxdepth: 1
