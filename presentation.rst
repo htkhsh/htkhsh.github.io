@@ -4,7 +4,7 @@ Presentations
 Domestic Conferences (Oral)
 ---------------------------
 
-5. **H. Takahashi** and Y. Tanimura, “Quantum simulation of two-dimensional infrared-Raman and Raman spectroscopies for intermolecular and intramolecular modes of liquid water”, The 16th Annual Meeting of Japan Society for Molecular Science, Kanagawa, September 2022.
+5. **H. Takahashi** and Y. Tanimura, “Quantum simulation of multidimensional vibrational spectroscopies for intermolecular and intramolecular modes of liquid water based on the system-bath model”, The 16th Annual Meeting of Japan Society for Molecular Science, Kanagawa, September 2022.
 
 4. **H. Takahashi** and Y. Tanimura, “Quantum simulation of multidimensional vibrational spectroscopies for intermolecular and intramolecular modes of liquid water based on the system-bath model,” 2022 Autumn Meeting, The Physical Society of Japan, Tokyo, September 2022.
 
