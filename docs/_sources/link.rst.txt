@@ -7,7 +7,7 @@ External Links
 
 * `Researchmap <https://researchmap.jp/Hideaki_Takahashi>`__
 
-* `Researchgate <https://www.researchgate.net/profile/Hideaki-Takahashi-11>`__
+* `ResearchGate <https://www.researchgate.net/profile/Hideaki-Takahashi-11>`__
 
 * `DISAFA <https://www.disafa.unito.it/persone/hideaki.takahashi>`__
 
