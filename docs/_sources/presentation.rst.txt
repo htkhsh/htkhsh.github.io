@@ -1,6 +1,13 @@
 Presentations
 ================================== 
 
+International Conferences (Poster)
+----------------------------------
+
+2. **H. Takahashi** and R. Borrelli, “Simulating charge transfer for two-dimensional organic materials: Dissipative quantum dynamics in tensor-train format”, Quantum Dynamics and Spectroscopy of Functional Molecular Materials and Biological Photosystems, Les Houches, France, September 2023.
+
+1. **H. Takahashi** and Y. Tanimura, “Simulating two-dimensional correlation spectroscopies for intra- and intermolecular vibrational modes of liquid water”, Quantum Dynamics and Spectroscopy of Functional Molecular Materials and Biological Photosystems, Les Houches, France, September 2023.
+
 Domestic Conferences (Oral)
 ---------------------------
 
