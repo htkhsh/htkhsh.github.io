@@ -4,4 +4,5 @@ html[data-theme="light"] {
     --pst-color-warning: #FFCC00;
     --pst-color-on-background: #00FF00;
     --pst-color-text-muted: #009F00;
+    background: rgb(255, 154, 186);
 }
