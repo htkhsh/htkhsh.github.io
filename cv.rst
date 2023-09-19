@@ -4,19 +4,19 @@ Curriculum Vitae
 Employments
 -------------------
 
-Jun 2023 – Current      Postdoctral Researcher at Raffaele Borrelli's lab - University of Torino, Torino, Italy
+Jun 2023 – Current Postdoctral Researcher at Raffaele Borrelli's group - University of Torino, Torino, Italy
 
-Apr 2023 – May 2023     Visiting Researcher at Raffaele Borrelli's lab - University of Torino, Torino, Italy
+Apr 2023 – May 2023 Visiting Researcher at Raffaele Borrelli's group - University of Torino, Torino, Italy
 
 
 Educations
 -------------------
 
-Apr 2020 – Mar 2023     Ph.D. in Chemistry - Kyoto University, Kyoto, Japan (Supervisor: Prof. Yoshitaka Tanimura)
+Apr 2020 – Mar 2023 Ph.D. in Chemistry - Kyoto University, Kyoto, Japan (Supervisor: Prof. Yoshitaka Tanimura)
 
-Apr 2018 – Mar 2020     M.S. in Chemistry - Kyoto University, Kyoto, Japan (Supervisor: Prof. Yoshitaka Tanimura)
+Apr 2018 – Mar 2020 M.S. in Chemistry - Kyoto University, Kyoto, Japan (Supervisor: Prof. Yoshitaka Tanimura)
 
-Apr 2014 – Mar 2018     B.S. in Chemistry - Kyoto University, Kyoto, Japan     
+Apr 2014 – Mar 2018 B.S. in Chemistry - Kyoto University, Kyoto, Japan     
 
 Teaching Experiences
 -----------------------
