@@ -62,6 +62,12 @@ html_theme_options = {
             "type": "fontawesome",
         },
         {
+            "name": "Google Scholar",
+            "url": "https://scholar.google.co.jp/citations?hl=ja&user=_Anark0AAAAJ",
+            "icon": "fa fa-graduation-cap",
+            "type": "fontawesome",
+        },
+        {
             "name": "Researchgate",
             "url": "https://www.researchgate.net/profile/Hideaki-Takahashi-11",
             "icon": "fa-brands fa-researchgate",
