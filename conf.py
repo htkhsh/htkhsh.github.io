@@ -43,6 +43,7 @@ html_theme_options = {
     "navigation_depth": 4,
     "logo": {
         "image_light": "./_static/logo2.jpeg",
+        "text": "Home",
     },
     "icon_links": [
         {
