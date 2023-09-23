@@ -1,3 +1,11 @@
+.. image:: picture/blue-yellow.png
+   :height: 443
+   :width: 333
+
+.. image:: ./picture/tree1.jpg
+   :height: 444
+   :width: 333
+
 ========================
 Hideaki Takahashi
 ========================
