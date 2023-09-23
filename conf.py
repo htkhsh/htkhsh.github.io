@@ -35,6 +35,7 @@ html_theme_options = {
     "navbar_end": ["navbar-icon-links.html"],
     "navbar_persistent": ["search-button"],
     "navbar_align": "content",
+    "header_links_before_dropdown": 7,
     "secondary_sidebar_items": ["page-toc", "edit-this-page", "sourcelink"],
     "article_footer_items": ["prev-next.html"],
     "show_prev_next": False,
