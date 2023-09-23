@@ -1,11 +1,6 @@
 .. image:: picture/blue-yellow.png
-   :height: 443
-   :width: 333
-
-.. image:: ./picture/tree1.jpg
    :height: 444
-   :width: 333
-   
+   :width: 1600
 
 ========================
 Hideaki Takahashi
@@ -28,4 +23,5 @@ Research Interest: Application of matrix product state to dissipative quantum dy
    cv
    link
    note
+   tree
 
