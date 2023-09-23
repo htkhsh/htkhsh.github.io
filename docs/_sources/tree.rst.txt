@@ -1,12 +1,6 @@
 木
 ========================
 
-<<<<<<< HEAD
-.. toctree::
-   :maxdepth: 1
-
-   
-=======
 .. image:: ./picture/tree1.jpg
    :height: 400
    :width: 300
@@ -41,5 +35,4 @@
    :height: 400
    :width: 300
    :align: center
->>>>>>> green2
 
