@@ -1,5 +1,5 @@
 External Links
-===============================
+========================
 
 * `Google scholar <https://scholar.google.co.jp/citations?hl=ja&user=_Anark0AAAAJ>`__
 
