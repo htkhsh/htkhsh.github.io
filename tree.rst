@@ -4,7 +4,6 @@
 .. image:: ./picture/tree1.jpg
    :height: 400
    :width: 300
-   :align: left
 
 .. image:: ./picture/tree2.jpg
    :height: 300
@@ -19,19 +18,26 @@
    :width: 400
    
 .. image:: ./picture/tree5.jpg
-   :height: 400
-   :width: 300
-   :align: left
+   :height: 300
+   :width: 400
   
 .. image:: ./picture/tree6.jpg
-   :height: 400
-   :width: 300
+   :height: 300
+   :width: 400
    
 .. image:: ./picture/tree7.jpg
    :height: 400
    :width: 300
 
 .. image:: ./picture/tree8.jpg
+   :height: 400
+   :width: 300
+
+.. image:: ./picture/tree9.jpg
+   :height: 400
+   :width: 300
+
+.. image:: ./picture/tree10.jpg
    :height: 400
    :width: 300
    
