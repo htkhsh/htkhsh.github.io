@@ -71,7 +71,7 @@ html_theme_options = {
             "type": "fontawesome",
         },
         {
-            "name": "Researchgate",
+            "name": "ResearchGate",
             "url": "https://www.researchgate.net/profile/Hideaki-Takahashi-11",
             "icon": "fa-brands fa-researchgate",
             "type": "fontawesome",
