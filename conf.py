@@ -76,6 +76,12 @@ html_theme_options = {
             "icon": "fa-brands fa-researchgate",
             "type": "fontawesome",
         },
+        {
+            "name": "tumblr",
+            "url": "https://ftngrf.tumblr.com/",
+            "icon": "fab fa-tumblr",
+            "type": "fontawesome",
+        },
 
    ],
 
