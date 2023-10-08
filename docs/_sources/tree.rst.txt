@@ -54,6 +54,10 @@
    :width: 300
 
 .. image:: ./picture/tree14.jpg
+   :height: 400
+   :width: 300
+
+.. image:: ./picture/tree15.jpg
    :height: 300
    :width: 400
    
