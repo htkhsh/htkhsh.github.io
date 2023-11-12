@@ -1,7 +1,3 @@
-.. image:: picture/blue-yellow.png
-   :height: 444
-   :width: 1600
-
 ========================
 Hideaki Takahashi
 ========================
