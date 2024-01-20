@@ -1,0 +1,5 @@
+html {
+    --pst-font-family-base: Helvetica, var(--pst-font-family-base-system);
+    --pst-font-family-heading: "Arial Black", var(--pst-font-family-base-system);
+    --pst-font-family-monospace: Arial, var(--pst-font-family-monospace-system);
+}

@@ -102,6 +102,7 @@ favicons = [
 
 html_css_files = [
     'css/color.css',
+    'css/font.css',
 ]
 
 def setup(app):
