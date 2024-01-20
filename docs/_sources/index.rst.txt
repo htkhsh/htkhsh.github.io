@@ -4,7 +4,7 @@ Hideaki Takahashi
 
 Postdoctoral Researcher
 
-Raffaele Borrelli's group, DISAFA, University of Torino 
+Raffaele Borrelli group, DISAFA, University of Torino 
 
 E-mail: hideaki.takahashi[at]unito.it  &  takahashi.hideaki.w33[at]kyoto-u.jp
 
