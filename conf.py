@@ -43,7 +43,8 @@ html_theme_options = {
     "show_nav_level": 2,
     "navigation_depth": 4,
     "logo": {
-        "image_light": "./_static/logo2.jpeg",
+        #"image_light": "./_static/logo2.jpeg",
+        "image_light": "./_static/nome.png",
         "alt_text": "Hideaki Takahashi - Home",
         #"text": "Home",
     },
@@ -71,9 +72,15 @@ html_theme_options = {
             "type": "fontawesome",
         },
         {
-            "name": "Researchgate",
+            "name": "ResearchGate",
             "url": "https://www.researchgate.net/profile/Hideaki-Takahashi-11",
             "icon": "fa-brands fa-researchgate",
+            "type": "fontawesome",
+        },
+        {
+            "name": "tumblr",
+            "url": "https://ftngrf.tumblr.com/",
+            "icon": "fab fa-tumblr",
             "type": "fontawesome",
         },
 

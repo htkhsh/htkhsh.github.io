@@ -5,7 +5,7 @@ External Links
 
 * `ORCiD <https://orcid.org/0000-0001-6465-2049>`__
 
-* `Researchmap <https://researchmap.jp/Hideaki_Takahashi>`__
+* `researchmap <https://researchmap.jp/Hideaki_Takahashi>`__
 
 * `ResearchGate <https://www.researchgate.net/profile/Hideaki-Takahashi-11>`__
 
