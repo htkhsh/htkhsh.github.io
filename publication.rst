@@ -4,7 +4,7 @@ Publications
 Papers
 ----------
 
-4. **Hideaki Takahashi**, Raffaele Borrelli, Maxim F. Gelin, and Lipeng Chen, "Finite temperature dynamics in a polarized sub-Ohmic heat bath: a hierarchical equations of motion-tensor train study", submitted. [`arXiv <https://doi.org/10.48550/arXiv.2402.02138>`__]
+4. **H. Takahashi**, R. Borrelli, M. F. Gelin, and L. Chen, "Finite temperature dynamics in a polarized sub-Ohmic heat bath: a hierarchical equations of motion-tensor train study", submitted. [`arXiv <https://doi.org/10.48550/arXiv.2402.02138>`__]
 
 3. **H. Takahashi** and Y. Tanimura, “Simulating two-dimensional correlation spectroscopies with third-order infrared and fifth-order infrared-Raman processes of liquid water", `J. Chem. Phys. 158, 124108 (2023). <https://doi.org/10.1063/5.0141181>`__ [Open Access] **[Editor's Pick]**
 
