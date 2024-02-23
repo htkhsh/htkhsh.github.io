@@ -4,9 +4,9 @@ Curriculum Vitae
 Employments
 -------------------
 
-Jun 2023 – Current Postdoctral Researcher at Raffaele Borrelli's group - University of Torino, Torino, Italy
+Jun 2023 – Current Postdoctral Researcher at Raffaele Borrelli group - University of Torino, Torino, Italy
 
-Apr 2023 – May 2023 Visiting Researcher at Raffaele Borrelli's group - University of Torino, Torino, Italy
+Apr 2023 – May 2023 Visiting Researcher at Raffaele Borrelli group - University of Torino, Torino, Italy
 
 
 Educations
