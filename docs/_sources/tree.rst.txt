@@ -37,6 +37,22 @@
    :height: 300
    :width: 200
 
+.. image:: ./picture/tree9-1.jpg
+   :height: 300
+   :width: 200
+
+.. image:: ./picture/tree9-2.jpg
+   :height: 200
+   :width: 300
+
+.. image:: ./picture/tree9-3.jpg
+   :height: 200
+   :width: 300
+
+.. image:: ./picture/tree9-4.jpg
+   :height: 200
+   :width: 300
+
 .. image:: ./picture/tree10.jpg
    :height: 300
    :width: 200
