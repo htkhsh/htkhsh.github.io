@@ -4,6 +4,8 @@ Publications
 Papers
 ----------
 
+6. **H. Takahashi** and R. Borrelli, "Effective Modeling of Quantum Systems in a Linear Dissipative Environment at Finite Temperature", submitted.
+
 5. **H. Takahashi**, S. Rudge, C. Kaspar, M. Thoss, and R. Borrelli, "High Accuracy Decomposition Methodologies of Bath Correlation Functions for Arbitrary and Structured Spectral Densities: emerging methodologies and new approaches", submitted.
 
 4. **H. Takahashi**, R. Borrelli, M. F. Gelin, and L. Chen, "Finite temperature dynamics in a polarized sub-Ohmic heat bath: a hierarchical equations of motion-tensor train study", accepted. [`arXiv <https://doi.org/10.48550/arXiv.2402.02138>`__]
