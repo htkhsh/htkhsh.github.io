@@ -4,7 +4,7 @@ Publications
 Papers
 ----------
 
-7. **H. Takahashi** and R. Borrelli, "Tensor-Train Format Hierarchical Equations of Motion Formalism: Charge Transfer in Organic Semiconductors via Dissipative Holstein Models ", submitted.
+7. **H. Takahashi** and R. Borrelli, "Tensor-Train Format Hierarchical Equations of Motion Formalism: Charge Transfer in Organic Semiconductors via Dissipative Holstein Models", submitted.
 
 6. **H. Takahashi** and R. Borrelli, "Effective Modeling of Quantum Systems in a Linear Dissipative Environment at Finite Temperature", submitted.
 
