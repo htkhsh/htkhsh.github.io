@@ -3,6 +3,7 @@ Presentations
 
 International Conferences (Poster)
 ----------------------------------
+3. **H. Takahashi** and R. Borrelli, “Effective modeling of open quantum systems by low-rank discretization of structured environments”, High-Dimensional Quantum Dynamics (HDQD) Workshop, Hamburg, Germany, July 2024.
 
 2. **H. Takahashi** and R. Borrelli, “Simulating charge transfer for two-dimensional organic materials: Dissipative quantum dynamics in tensor-train format”, Quantum Dynamics and Spectroscopy of Functional Molecular Materials and Biological Photosystems, Les Houches, France, September 2023.
 
