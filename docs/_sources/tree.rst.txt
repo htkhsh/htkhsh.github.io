@@ -1,6 +1,8 @@
 木
 ========================
 
+(広い意味での)木の記録
+
 .. image:: ./picture/tree1.jpeg
    :height: 300
    :width: 200
