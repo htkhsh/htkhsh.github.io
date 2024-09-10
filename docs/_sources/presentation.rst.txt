@@ -35,8 +35,8 @@ Domestic Conferences (Poster)
 
 1. **H. Takahashi** and Y. Tanimura, “Analysis of μSR spectrum based on the theory of open quantum dynamics”, Quantum Beam Science Festa 22020, Ibaraki, March 2020.
 
-Seminars
+Invited Seminars
 ---------------------------
 
-1. **H. Takahashi**, "The extension of the Kubo-Toyabe theory", KEK(online), August 2020. (Invited)
+1. **H. Takahashi**, "The extension of the Kubo-Toyabe theory", KEK (online), August 2020.
 
