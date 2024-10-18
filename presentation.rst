@@ -38,5 +38,7 @@ Domestic Conferences (Poster)
 Invited Seminars
 ---------------------------
 
-1. **H. Takahashi**, "The extension of the Kubo-Toyabe theory", KEK (online), August 2020.
+2. **H. Takahashi**, "Tensor-Train Format Hierarchical Equations of Motion Formalism: Charge Transfer in Organic Semiconductors via Dissipative Holstein Models", Online CMT Seminar (online), October 2024. (in Japanese)
+
+1. **H. Takahashi**, "The extension of the Kubo-Toyabe theory", KEK (online), August 2020. (in Japanese)
 
