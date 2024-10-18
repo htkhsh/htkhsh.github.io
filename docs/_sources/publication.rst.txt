@@ -4,7 +4,7 @@ Publications
 Papers
 ----------
 
-7. **H. Takahashi** and R. Borrelli, "Effective Modeling of Open Quantum Systems by Low-rank Discretization of Structured Environments", `J. Chem. Phys. 161, 151101 (2024). <https://doi.org/10.1063/5.0232232>`__. [`arXiv <https://arxiv.org/abs/2407.18880>`__]
+7. **H. Takahashi** and R. Borrelli, "Effective Modeling of Open Quantum Systems by Low-rank Discretization of Structured Environments", `J. Chem. Phys. 161, 151101 (2024). <https://doi.org/10.1063/5.0232232>`__ [`arXiv <https://arxiv.org/abs/2407.18880>`__]
 
 6. **H. Takahashi** and R. Borrelli, "Tensor-Train Format Hierarchical Equations of Motion Formalism: Charge Transfer in Organic Semiconductors via Dissipative Holstein Models", `J. Chem. Theory Comput. 20, 7052-7064 (2024). <https://doi.org/10.1021/acs.jctc.4c00711>`__
 
