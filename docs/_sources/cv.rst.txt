@@ -39,4 +39,9 @@ Reserach Grants
 
 * Dec 2021 – Mar 2023   JST SPRING, Grant Number JPMJSP2110.
 
+Professional Memberships
+-------------------------
 
+* The Physical Society of Japan
+* Japan Society for Molecular Science
+* Society of Muon and Meson Science of Japan
