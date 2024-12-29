@@ -4,6 +4,9 @@ Publications
 Papers
 ----------
 
+9. V. Maruzzo, A. Bousquet, F. Matteocci, E. Nonni, D. Takhellambam, R. Borrelli, **H. Takahashi**, E. Grelet, M. Abbas, M. Silly, M. Bonomo, A. Di Carlo, C. Barolo, N. Barbero, and C. Lartigau-Dagron, 
+   "Low-Cost Carbazole and Phenothiazine Based Small Molecules as Hole Transporting Materials for Inverted Perovskite Solar Cells", submitted. [`preprint <https://dx.doi.org/10.2139/ssrn.5060741>`__]
+
 8. **H. Takahashi** and R. Borrelli, "Discretization of Structured Bosonic Environments at Finite Temperature by Interpolative Decomposition: Theory and Application", submitted. [`arXiv <https://doi.org/10.48550/arXiv.2412.13793>`__]
 
 7. **H. Takahashi** and R. Borrelli, "Effective Modeling of Open Quantum Systems by Low-rank Discretization of Structured Environments", `J. Chem. Phys. 161, 151101 (2024). <https://doi.org/10.1063/5.0232232>`__ [`arXiv <https://doi.org/10.48550/arXiv.2407.18880>`__]
