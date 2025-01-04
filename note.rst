@@ -1,6 +1,5 @@
 Notes
 ========================
 
-.. toctree::
-   :maxdepth: 1
+* `Zenn <https://zenn.dev/htkhsh>`__
 
