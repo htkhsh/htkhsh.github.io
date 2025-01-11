@@ -1,7 +1,7 @@
 Links
 ========================
 
-* `Google scholar <https://scholar.google.co.jp/citations?hl=ja&user=_Anark0AAAAJ>`__
+* `Google Scholar <https://scholar.google.co.jp/citations?hl=ja&user=_Anark0AAAAJ>`__
 
 * `ORCiD <https://orcid.org/0000-0001-6465-2049>`__
 

@@ -4,7 +4,12 @@ Publications
 Papers
 ----------
 
-7. **H. Takahashi** and R. Borrelli, "Effective Modeling of Open Quantum Systems by Low-rank Discretization of Structured Environments", `J. Chem. Phys. 161, 151101 (2024). <https://doi.org/10.1063/5.0232232>`__ [`arXiv <https://arxiv.org/abs/2407.18880>`__]
+9. V. Maruzzo, A. Bousquet, F. Matteocci, E. Nonni, D. Takhellambam, R. Borrelli, **H. Takahashi**, E. Grelet, M. Abbas, M. Silly, M. Bonomo, A. Di Carlo, C. Barolo, N. Barbero, and C. Lartigau-Dagron, 
+   "Low-Cost Carbazole and Phenothiazine Based Small Molecules as Hole Transporting Materials for Inverted Perovskite Solar Cells", submitted. [`preprint <https://dx.doi.org/10.2139/ssrn.5060741>`__]
+
+8. **H. Takahashi** and R. Borrelli, "Discretization of Structured Bosonic Environments at Finite Temperature by Interpolative Decomposition: Theory and Application", submitted. [`arXiv <https://doi.org/10.48550/arXiv.2412.13793>`__]
+
+7. **H. Takahashi** and R. Borrelli, "Effective Modeling of Open Quantum Systems by Low-rank Discretization of Structured Environments", `J. Chem. Phys. 161, 151101 (2024). <https://doi.org/10.1063/5.0232232>`__ [`arXiv <https://doi.org/10.48550/arXiv.2407.18880>`__]
 
 6. **H. Takahashi** and R. Borrelli, "Tensor-Train Format Hierarchical Equations of Motion Formalism: Charge Transfer in Organic Semiconductors via Dissipative Holstein Models", `J. Chem. Theory Comput. 20, 7052-7064 (2024). <https://doi.org/10.1021/acs.jctc.4c00711>`__
 
@@ -14,7 +19,7 @@ Papers
 
 3. **H. Takahashi** and Y. Tanimura, “Simulating two-dimensional correlation spectroscopies with third-order infrared and fifth-order infrared-Raman processes of liquid water", `J. Chem. Phys. 158, 124108 (2023). <https://doi.org/10.1063/5.0141181>`__ [Open Access] **[Editor's Pick]**
 
-2. **H. Takahashi** and Y. Tanimura, “Discretized hierarchical equations of motion in mixed Liouville–Wigner space for two-dimensional vibrational spectroscopies of liquid water", `J. Chem. Phys. 158, 044115 (2023). <https://doi.org/10.1063/5.0135725>`__ [`arXiv <https://arxiv.org/abs/2302.09799>`__] 
+2. **H. Takahashi** and Y. Tanimura, “Discretized hierarchical equations of motion in mixed Liouville–Wigner space for two-dimensional vibrational spectroscopies of liquid water", `J. Chem. Phys. 158, 044115 (2023). <https://doi.org/10.1063/5.0135725>`__ [`arXiv <https://doi.org/10.48550/arXiv.2302.09799>`__] 
 
 1. **H. Takahashi** and Y. Tanimura, “Open Quantum Dynamics Theory of Spin Relaxation: Application to µSR and Low-Field NMR Spectroscopy", `J. Phys. Soc. Jpn., 89, 064710 (2020). <https://doi.org/10.7566/JPSJ.89.064710>`__ [Open Access]
 
