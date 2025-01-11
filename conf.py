@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'Hideaki Takahashi'
-copyright = '2023, Hideaki Takahashi'
+copyright = '2023, Hideaki Takahashi (髙橋秀顕)'
 author = 'htkhsh'
 
 # -- General configuration ---------------------------------------------------
