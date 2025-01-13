@@ -17,3 +17,5 @@ Other useful codes
 * `ttpy <https://github.com/oseledets/ttpy>`__
 
 * `TT-Toolbox <https://github.com/dolgov/TT-Toolbox>`__
+
+* `ITensor <https://github.com/ITensor>`__
