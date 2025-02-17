@@ -4,7 +4,9 @@ Codes
 My codes
 ----------------------------------
 
-* `QFiND <https://github.com/htkhsh/QFiND>`__
+* `QFiND <https://github.com/htkhsh/QFiND>`__: Quantum Finite-temperature Noise Discretizer
+
+* `ExpFit.jl <https://github.com/DOC-Package/ExpFit.jl>`__: Exponential Fitting Package
 
 
 Other useful codes
