@@ -6,10 +6,12 @@ International Conferences (Oral)
 
 2. **H. Takahashi** and R. Borrelli, “Effective Modeling of Open Quantum Systems by Low-rank Discretization of Structured Environments at Finite Temperature”, Quantum Dynamics and Spectroscopy of Functional Molecular Materials and Biological Photosystems, Les Houches, France, March 2025.
 
-1. **H. Takahashi** and R. Borrelli, “Charge Transfer in Organic Semiconductors via Dissipative Holstein Models”, Italian-Japanese Symposium on Condensed Conjugation, Turin, Italy, October 2024. (Symposium talk)
+1. **H. Takahashi** and R. Borrelli, “Charge Transfer in Organic Semiconductors via Dissipative Holstein Models”, Italian-Japanese Symposium on Condensed Conjugation, Turin, Italy, October 2024.
 
 International Conferences (Poster)
 ----------------------------------
+
+4. **H. Takahashi** and R. Borrelli, “Effective Modeling of Open Quantum Systems by Low-Rank Discretization of Structured Environments at Finite Temperature”, The 16th Femtochemistry Conference (FEMTO16), Trieste, Italy, June 2025.
 
 3. **H. Takahashi** and R. Borrelli, “Effective modeling of open quantum systems by low-rank discretization of structured environments”, High-Dimensional Quantum Dynamics (HDQD) Workshop, Hamburg, Germany, July 2024.
 
