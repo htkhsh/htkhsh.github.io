@@ -2,7 +2,7 @@
 Hideaki Takahashi
 ============================
 
-Postdoctoral Researcher
+Postdoctoral Fellow
 
 Raffaele Borrelli group, DISAFA, University of Torino 
 
