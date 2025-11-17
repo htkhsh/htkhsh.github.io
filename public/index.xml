@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hideaki Takahashi</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Hideaki Takahashi</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Codes</title>
+      <link>http://localhost:1313/codes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/codes/</guid>
+      <description>&lt;h2 id=&#34;my-codes&#34;&gt;My codes&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/htkhsh/QFiND&#34;&#xA;&#xA;&#xA;&#xA;&#xA; target=&#34;_blank&#34;&#xA; &#xA;&#xA;&#xA;&gt;QFiND: Quantum Finite-temperature Noise Discretizer&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/DOC-Package/ExpFit.jl&#34;&#xA;&#xA;&#xA;&#xA;&#xA; target=&#34;_blank&#34;&#xA; &#xA;&#xA;&#xA;&gt;ExpFit.jl: Exponential Fitting Package&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;other-useful-codes&#34;&gt;Other useful codes&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/chebfun/chebfun&#34;&#xA;&#xA;&#xA;&#xA;&#xA; target=&#34;_blank&#34;&#xA; &#xA;&#xA;&#xA;&gt;Chebfun&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/c-f-h/baryrat&#34;&#xA;&#xA;&#xA;&#xA;&#xA; target=&#34;_blank&#34;&#xA; &#xA;&#xA;&#xA;&gt;baryrat&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/oseledets/ttpy&#34;&#xA;&#xA;&#xA;&#xA;&#xA; target=&#34;_blank&#34;&#xA; &#xA;&#xA;&#xA;&gt;ttpy&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/dolgov/TT-Toolbox&#34;&#xA;&#xA;&#xA;&#xA;&#xA; target=&#34;_blank&#34;&#xA; &#xA;&#xA;&#xA;&gt;TT-Toolbox&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/ITensor&#34;&#xA;&#xA;&#xA;&#xA;&#xA; target=&#34;_blank&#34;&#xA; &#xA;&#xA;&#xA;&gt;ITensor&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>http://localhost:1313/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cv/</guid>
+      <description>&lt;h2 id=&#34;employments&#34;&gt;Employments&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Jun 2023 – Current&lt;/strong&gt; Postdoctral Researcher at Raffaele Borrelli group - University of Torino, Grugliasco, Italy&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Links</title>
+      <link>http://localhost:1313/links/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/links/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://scholar.google.co.jp/citations?hl=ja&amp;amp;user=_Anark0AAAAJ&#34;&#xA;&#xA;&#xA;&#xA;&#xA; target=&#34;_blank&#34;&#xA; &#xA;&#xA;&#xA;&gt;Google Scholar&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://orcid.org/0000-0001-6465-2049&#34;&#xA;&#xA;&#xA;&#xA;&#xA; target=&#34;_blank&#34;&#xA; &#xA;&#xA;&#xA;&gt;ORCiD&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://researchmap.jp/Hideaki_Takahashi&#34;&#xA;&#xA;&#xA;&#xA;&#xA; target=&#34;_blank&#34;&#xA; &#xA;&#xA;&#xA;&gt;researchmap&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.researchgate.net/profile/Hideaki-Takahashi-11&#34;&#xA;&#xA;&#xA;&#xA;&#xA; target=&#34;_blank&#34;&#xA; &#xA;&#xA;&#xA;&gt;ResearchGate&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.disafa.unito.it/persone/hideaki.takahashi&#34;&#xA;&#xA;&#xA;&#xA;&#xA; target=&#34;_blank&#34;&#xA; &#xA;&#xA;&#xA;&gt;DISAFA&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Notes</title>
+      <link>http://localhost:1313/notes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://zenn.dev/htkhsh&#34;&#xA;&#xA;&#xA;&#xA;&#xA; target=&#34;_blank&#34;&#xA; &#xA;&#xA;&#xA;&gt;Zennで更新中&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Presentations</title>
+      <link>http://localhost:1313/presentations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/presentations/</guid>
+      <description>&lt;h2 id=&#34;international-conferences-oral&#34;&gt;International Conferences (Oral)&lt;/h2&gt;&#xA;&lt;ol start=&#34;2&#34;&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;H. Takahashi&lt;/strong&gt; and R. Borrelli, &amp;ldquo;Effective Modeling of Open Quantum Systems by Low-rank Discretization of Structured Environments at Finite Temperature&amp;rdquo;, Quantum Dynamics and Spectroscopy of Functional Molecular Materials and Biological Photosystems, Les Houches, France, March 2025.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Publications</title>
+      <link>http://localhost:1313/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/</guid>
+      <description>&lt;h2 id=&#34;papers&#34;&gt;Papers&lt;/h2&gt;&#xA;&lt;ol start=&#34;8&#34;&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;H. Takahashi&lt;/strong&gt; and R. Borrelli, &amp;ldquo;Discretization of Structured Bosonic Environments at Finite Temperature by Interpolative Decomposition: Theory and Application&amp;rdquo;, &lt;a href=&#34;https://doi.org/10.1021/acs.jctc.4c01728&#34;&#xA;&#xA;&#xA;&#xA;&#xA; target=&#34;_blank&#34;&#xA; &#xA;&#xA;&#xA;&gt;J. Chem. Theory Comput. 21, 2206–2218 (2025).&lt;/a&gt; [&lt;a href=&#34;https://doi.org/10.48550/arXiv.2412.13793&#34;&#xA;&#xA;&#xA;&#xA;&#xA; target=&#34;_blank&#34;&#xA; &#xA;&#xA;&#xA;&gt;arXiv&lt;/a&gt;]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>木</title>
+      <link>http://localhost:1313/tree/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tree/</guid>
+      <description>&lt;h1 id=&#34;木の記録&#34;&gt;木の記録&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/picture/tree1.jpeg&#34; alt=&#34;Tree 1&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/picture/tree2.jpeg&#34; alt=&#34;Tree 2&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/picture/tree3.jpeg&#34; alt=&#34;Tree 3&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/picture/tree4.jpeg&#34; alt=&#34;Tree 4&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/picture/tree5.jpeg&#34; alt=&#34;Tree 5&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

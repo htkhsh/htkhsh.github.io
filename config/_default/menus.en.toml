@@ -1,0 +1,59 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Publications"
+url = "/publications"
+weight = 2
+
+[[main]]
+name = "Presentations"
+url = "/presentations"
+weight = 3
+
+[[main]]
+name = "CV"
+url = "/cv"
+weight = 4
+
+[[main]]
+name = "Links"
+url = "/links"
+weight = 5
+
+[[main]]
+name = "Codes"
+url = "/codes"
+weight = 6
+
+[[main]]
+name = "Notes"
+url = "/notes"
+weight = 7
+
+[[main]]
+name = "Tree"
+url = "/tree"
+weight = 8
+
+
+# footer menu
+[[footer]]
+name = "Publications"
+url = "/publications"
+weight = 1
+
+[[footer]]
+name = "CV"
+url = "/cv"
+weight = 2
+
+[[footer]]
+name = "Links"
+url = "/links"
+weight = 3

@@ -1,0 +1,67 @@
+<!-- JS Plugins + Main script -->
+{{ $scripts := slice }}
+{{ $scriptsLazy := slice }}
+{{ range site.Params.plugins.js }}
+  {{ if findRE "^http" .link }}
+    <script
+      src="{{ .link | relURL }}"
+      type="application/javascript"
+      {{ .attributes | safeHTMLAttr }}></script>
+  {{ else }}
+    {{ if not .lazy }}
+      {{ $scripts = $scripts | append (resources.Get .link) }}
+    {{ else }}
+      {{ $scriptsLazy = $scriptsLazy | append (resources.Get .link) }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+
+<!-- main script -->
+{{ $mainJS := resources.Get "js/main.js" }}
+{{ if $mainJS }}
+  {{ $scripts = $scripts | append $mainJS }}
+{{ end }}
+{{ $scripts = $scripts | resources.Concat "js/script.js" }}
+
+{{ if gt (len $scriptsLazy) 0 }}
+  {{ $scriptsLazy = $scriptsLazy | resources.Concat "js/script-lazy.js" }}
+{{ end }}
+
+{{ if hugo.IsProduction }}
+  {{ $scripts = $scripts | minify | fingerprint }}
+  {{ if $scriptsLazy }}
+    {{ $scriptsLazy = $scriptsLazy | minify | fingerprint }}
+  {{ end }}
+{{ end }}
+
+{{/* scripts */}}
+<script
+  crossorigin="anonymous"
+  {{ if hugo.IsProduction }}integrity="{{ $scripts.Data.Integrity }}"{{ end }}
+  src="{{ $scripts.RelPermalink }}"></script>
+
+{{/* scripts lazy */}}
+{{ if $scriptsLazy }}
+<script
+  defer
+  async
+  crossorigin="anonymous"
+  {{ if hugo.IsProduction }}integrity="{{ $scriptsLazy.Data.Integrity }}"{{ end }}
+  src="{{ $scriptsLazy.RelPermalink }}"></script>
+{{ end }}
+
+<!-- progressive web app -->
+{{ partialCached "pwa.html" . }}
+
+
+<!-- cookie consent -->
+{{ partialCached "cookie-consent.html" . }}
+
+
+<!-- google adsense -->
+{{ partialCached "adsense-script.html" . }}
+
+
+<!-- cookie consent -->
+{{ partialCached "announcement-script.html" . }}
