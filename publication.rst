@@ -4,6 +4,8 @@ Publications
 Papers
 ----------
 
+9. **H. Takahashi** and R. Borrelli, "Carrier mobility in Holstein–Peierls models of organic materials: A tensor-train HEOM approach", `J. Chem. Phys. 163, 194105 (2025). <https://doi.org/10.1063/5.0300292>`__ 
+
 8. **H. Takahashi** and R. Borrelli, "Discretization of Structured Bosonic Environments at Finite Temperature by Interpolative Decomposition: Theory and Application", `J. Chem. Theory Comput. 21, 2206–2218 (2025). <https://doi.org/10.1021/acs.jctc.4c01728>`__ [`arXiv <https://doi.org/10.48550/arXiv.2412.13793>`__]
 
 7. **H. Takahashi** and R. Borrelli, "Effective modeling of open quantum systems by low-rank discretization of structured environments", `J. Chem. Phys. 161, 151101 (2024). <https://doi.org/10.1063/5.0232232>`__ [`arXiv <https://doi.org/10.48550/arXiv.2407.18880>`__]
