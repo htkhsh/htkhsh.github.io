@@ -4,7 +4,9 @@ Curriculum Vitae
 Employments
 -------------------
 
-Jun 2023 – Current Postdoctral Researcher at Raffaele Borrelli group - University of Torino, Grugliasco, Italy
+Apr 2026 - Present JSPS Postdoctoral Fellow at Akihito Ishizaki group - The University of Tokyo, Tokyo, Japan
+
+Jun 2023 – Mar 2026 Postdoctoral Fellow at Raffaele Borrelli group - University of Torino, Grugliasco, Italy
 
 Apr 2023 – May 2023 Visiting Researcher at Raffaele Borrelli group - University of Torino, Grugliasco, Italy
 
