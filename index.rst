@@ -6,7 +6,7 @@ JSPS Postdoctoral Fellow
 
 Akihito Ishizaki group, Department of Chemistry, Graduate School of Science, The University of Tokyo 
 
-E-mail: hideaki-takahashi[at]g.ecc.u-tokyo.ac.jp & takahashi.hideaki.w33[at]kyoto-u.jp & hideaki.takahashi[at]unito.it   
+E-mail: hideaki-takahashi[at]g.ecc.u-tokyo.ac.jp
 
 Research Interest: Charge transport dynamics in organic semiconductors, Application of tensor networks to dissipative quantum dynamics,  Nonlinear optical spectroscopies, Density functional tight-binding method
 
