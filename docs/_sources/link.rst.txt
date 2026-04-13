@@ -9,6 +9,4 @@ Links
 
 * `ResearchGate <https://www.researchgate.net/profile/Hideaki-Takahashi-11>`__
 
-* `DISAFA <https://www.disafa.unito.it/persone/hideaki.takahashi>`__
-
 .. * `Web of Science <http://www.webofscience.com/wos/author/record/AAR-5892-2020>`__
