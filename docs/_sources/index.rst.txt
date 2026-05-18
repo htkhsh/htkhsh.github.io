@@ -2,7 +2,7 @@
 Hideaki Takahashi
 ============================
 
-JSPS Postdoctoral Fellow
+JSPS Postdoctoral Research Fellow
 
 Akihito Ishizaki group, Department of Chemistry, Graduate School of Science, The University of Tokyo 
 
