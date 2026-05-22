@@ -4,7 +4,7 @@ Publications
 Papers
 ----------
 
-10. R. Borrelli and **H. Takahashi**, "Reduced Dynamical Maps in Finite Temperature Vibronic Coupling Models via Choi Matrices: Numerical Methods and Applications", `arXiv:2605.22459 <https://doi.org/10.48550/arXiv.2605.22459>`__
+10. R\. Borrelli and **H. Takahashi**, "Reduced Dynamical Maps in Finite Temperature Vibronic Coupling Models via Choi Matrices: Numerical Methods and Applications", `arXiv:2605.22459 <https://doi.org/10.48550/arXiv.2605.22459>`__
 
 9. **H. Takahashi** and R. Borrelli, "Carrier mobility in Holstein–Peierls models of organic materials: A tensor-train HEOM approach", `J. Chem. Phys. 163, 194105 (2025). <https://doi.org/10.1063/5.0300292>`__ **[Editor's Pick]** [`IRIS-AperTO <https://iris.unito.it/handle/2318/2125484>`__]
 
@@ -26,4 +26,5 @@ Papers
 
 Reviews
 ----------
+
 1. **H. Takahashi**, "Study on the Extension of the Dynamic Kubo-Toyabe Theory", Meson No.54 (2021). (in Japanese)
