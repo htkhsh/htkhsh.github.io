@@ -8,7 +8,7 @@ Akihito Ishizaki group, Department of Chemistry, Graduate School of Science, The
 
 E-mail: hideaki-takahashi[at]g.ecc.u-tokyo.ac.jp
 
-Research Interest: Charge transport dynamics in organic semiconductors, Application of tensor networks to dissipative quantum dynamics,  Nonlinear optical spectroscopies, Density functional tight-binding method
+Research Interest: Charge separation and charge transport dynamics in organic semiconductors, Application of tensor networks to dissipative quantum dynamics,  Nonlinear optical spectroscopies, Density functional tight-binding method
 
 .. toctree::
    :maxdepth: 1
