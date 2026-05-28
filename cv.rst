@@ -4,7 +4,7 @@ Curriculum Vitae
 Employments
 -------------------
 
-Apr 2026 - Present JSPS Postdoctoral Fellow at Akihito Ishizaki group - The University of Tokyo, Tokyo, Japan
+Apr 2026 - Present JSPS Postdoctoral Research Fellow at Akihito Ishizaki group - The University of Tokyo, Tokyo, Japan
 
 Jun 2023 – Mar 2026 Postdoctoral Fellow at Raffaele Borrelli group - University of Torino, Grugliasco, Italy
 
