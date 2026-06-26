@@ -22,11 +22,9 @@ International Conferences (Poster)
 Domestic Conferences (Oral)
 ---------------------------
 
-5. **H. Takahashi** and Y. Tanimura, “Quantum simulation of multidimensional vibrational spectroscopies for intermolecular and intramolecular modes of liquid water based on the system-bath model”, The 16th Annual Meeting of Japan Society for Molecular Science, Kanagawa, September 2022.
+4. **H. Takahashi** and Y. Tanimura, “Quantum simulation of multidimensional vibrational spectroscopies for intermolecular and intramolecular modes of liquid water based on the system-bath model”, The 16th Annual Meeting of Japan Society for Molecular Science, Kanagawa, September 2022.
 
-4. **H. Takahashi** and Y. Tanimura, “Quantum simulation of multidimensional vibrational spectroscopies for intermolecular and intramolecular modes of liquid water based on the system-bath model,” 2022 Autumn Meeting, The Physical Society of Japan, Tokyo, September 2022.
-
-3. **H. Takahashi** and Y. Tanimura, “Quantum simulation of two-dimensional infrared-Raman and Raman spectroscopies for intermolecular and intramolecular modes of liquid water”, The 15th Annual Meeting of Japan Society for Molecular Science, online, September 2021.
+3. **H. Takahashi** and Y. Tanimura, “Quantum simulation of multidimensional vibrational spectroscopies for intermolecular and intramolecular modes of liquid water based on the system-bath model,” 2022 Autumn Meeting, The Physical Society of Japan, Tokyo, September 2022.
 
 2. **H. Takahashi**, "The extension of the Kubo-Toyabe theory", 2020 Autumn Meeting, Society of Muon and Meson Science of Japan, online, March 2021.[Student encouragement Award Lecture]
 
